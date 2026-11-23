@@ -2,7 +2,7 @@
 
 Projeto front-end de uma loja virtual de moda e acessórios esportivos, desenvolvido durante o curso da **Geração Tech 4.0**. A aplicação é totalmente responsiva (abordagem *mobile first*) e foi construída com React, Vite e TailwindCSS.
 
-🔗 **Demo:** _adicione aqui o link do deploy (Vercel, Netlify, GitHub Pages...)_
+🔗 **Demo:** _[Deploy Vercel](https://frontend-dripstore-gt4.vercel.app/)_
 
 ---
 
