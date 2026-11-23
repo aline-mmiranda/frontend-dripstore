@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "./theme.css";
+
+@layer base {
+  body {
+    @apply bg-background font-sans text-dark-gray-2;
+  }
+
+  a,
+  button {
+    cursor: pointer;
+  }
+}
